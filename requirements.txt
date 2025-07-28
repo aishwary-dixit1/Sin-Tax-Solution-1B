@@ -1,0 +1,11 @@
+# Forcing a smaller, CPU-only PyTorch to stay under 1GB
+torch==2.0.1 --index-url https://download.pytorch.org/whl/cpu
+
+# Core ML and NLP libraries
+sentence-transformers==2.7.0
+transformers==4.38.2
+scikit-learn==1.4.2
+numpy==1.26.4
+
+# PDF Parsing
+PyMuPDF==1.24.1
