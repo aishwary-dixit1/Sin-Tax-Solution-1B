@@ -14,4 +14,4 @@ This solution is packaged in a Docker container for easy and consistent executio
 
 From the root of the repository, run the following command to build the image:
 ```bash
-docker build --platform linux/amd64 -t your-solution-name .
+docker build --platform linux/amd64 -t Sin-Tax-Solution-1B .
