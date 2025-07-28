@@ -4,7 +4,7 @@ This solution is an intelligent document analyst that extracts and ranks the mos
 
 ## Overview
 
-The pipeline is designed to be highly generalizable across different domains (e.g., travel, legal, food). It uses an advanced, feature-based document parser to structure the PDFs and a powerful semantic model (`all-mpnet-base-v2`) to understand the context of the user's query and rank the content. The final output provides a diverse and highly relevant set of sections to help the user accomplish their task.
+The pipeline is designed to be highly generalizable across different domains (e.g., travel, legal, food). It uses an advanced, feature-based document parser to structure the PDFs and a powerful semantic model (`all-MiniLM-L6-v2`) to understand the context of the user's query and rank the content. The final output provides a diverse and highly relevant set of sections to help the user accomplish their task.
 
 ## How to Run (Docker)
 
